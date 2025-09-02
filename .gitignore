@@ -1,0 +1,32 @@
+# ===== React / Node (client) =====
+client/node_modules/
+client/dist/
+client/build/
+client/.env
+client/.env.local
+client/.env.*.local
+
+# ===== ASP.NET (server) =====
+server/bin/
+server/obj/
+server/.vs/
+server/**/*.user
+server/**/*.suo
+server/**/*.cache
+server/**/*.dbmdl
+server/**/*.jfm
+server/**/*.pdb
+server/**/*.exe
+server/**/*.dll
+
+# ===== Logs =====
+logs/
+*.log
+*.log.*
+
+# ===== IDE / OS =====
+.vscode/
+.idea/
+*.sw?
+.DS_Store
+Thumbs.db
