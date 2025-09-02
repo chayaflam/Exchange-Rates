@@ -1,0 +1,48 @@
+[
+  {
+    "ContainingType": "YourNamespace.Controllers.CurrenciesController",
+    "Method": "Get",
+    "RelativePath": "api/Currencies",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "ExchangeRates.BL.Models.CurrenciesResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "server.Controllers.RatesController",
+    "Method": "Get",
+    "RelativePath": "api/Rates",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "baseCurrency",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ExchangeRates.BL.Models.RatesResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
