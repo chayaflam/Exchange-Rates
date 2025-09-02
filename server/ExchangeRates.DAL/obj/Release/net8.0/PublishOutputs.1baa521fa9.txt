@@ -1,0 +1,8 @@
+C:\Users\user1\algoritech\server\ExchangeRates.DAL\bin\Release\net8.0\publish\ExchangeRates.DAL.dll
+C:\Users\user1\algoritech\server\ExchangeRates.DAL\bin\Release\net8.0\publish\ExchangeRates.DAL.deps.json
+C:\Users\user1\algoritech\server\ExchangeRates.DAL\bin\Release\net8.0\publish\ExchangeRates.DAL.pdb
+C:\Users\user1\algoritech\server\ExchangeRates.DAL\bin\Release\net8.0\publish\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user1\algoritech\server\ExchangeRates.DAL\bin\Release\net8.0\publish\Microsoft.Extensions.Options.dll
+C:\Users\user1\algoritech\server\ExchangeRates.DAL\bin\Release\net8.0\publish\Microsoft.Extensions.Primitives.dll
+C:\Users\user1\algoritech\server\ExchangeRates.DAL\bin\Release\net8.0\publish\ExchangeRates.BL.dll
+C:\Users\user1\algoritech\server\ExchangeRates.DAL\bin\Release\net8.0\publish\ExchangeRates.BL.pdb
