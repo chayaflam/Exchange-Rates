@@ -3,56 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\user1\\algoritech\\server\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D15AF1E3-C0F9-4AA7-9596-4DA4F6D93011}|ExchangeRates.DAL\\ExchangeRates.DAL.csproj|c:\\users\\user1\\algoritech\\server\\exchangerates.dal\\providers\\freecurrencyapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D15AF1E3-C0F9-4AA7-9596-4DA4F6D93011}|ExchangeRates.DAL\\ExchangeRates.DAL.csproj|solutionrelative:exchangerates.dal\\providers\\freecurrencyapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3837C891-13BA-4A96-B92F-79A60EB9A618}|server\\server.csproj|c:\\users\\user1\\algoritech\\server\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3837C891-13BA-4A96-B92F-79A60EB9A618}|server\\server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3837C891-13BA-4A96-B92F-79A60EB9A618}|server\\server.csproj|c:\\users\\user1\\algoritech\\server\\server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3837C891-13BA-4A96-B92F-79A60EB9A618}|server\\server.csproj|solutionrelative:server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3837C891-13BA-4A96-B92F-79A60EB9A618}|server\\server.csproj|c:\\users\\user1\\algoritech\\server\\server\\controllers\\currenciescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3837C891-13BA-4A96-B92F-79A60EB9A618}|server\\server.csproj|solutionrelative:server\\controllers\\currenciescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A0BE849-E7D4-4D39-BB93-EFE55213D430}|ExchangeRates.BL\\ExchangeRates.BL.csproj|c:\\users\\user1\\algoritech\\server\\exchangerates.bl\\abstractions\\icurrencyprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A0BE849-E7D4-4D39-BB93-EFE55213D430}|ExchangeRates.BL\\ExchangeRates.BL.csproj|solutionrelative:exchangerates.bl\\abstractions\\icurrencyprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A0BE849-E7D4-4D39-BB93-EFE55213D430}|ExchangeRates.BL\\ExchangeRates.BL.csproj|c:\\users\\user1\\algoritech\\server\\exchangerates.bl\\abstractions\\iexchangerateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A0BE849-E7D4-4D39-BB93-EFE55213D430}|ExchangeRates.BL\\ExchangeRates.BL.csproj|solutionrelative:exchangerates.bl\\abstractions\\iexchangerateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A0BE849-E7D4-4D39-BB93-EFE55213D430}|ExchangeRates.BL\\ExchangeRates.BL.csproj|c:\\users\\user1\\algoritech\\server\\exchangerates.bl\\models\\supportedcurrency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A0BE849-E7D4-4D39-BB93-EFE55213D430}|ExchangeRates.BL\\ExchangeRates.BL.csproj|solutionrelative:exchangerates.bl\\models\\supportedcurrency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A0BE849-E7D4-4D39-BB93-EFE55213D430}|ExchangeRates.BL\\ExchangeRates.BL.csproj|c:\\users\\user1\\algoritech\\server\\exchangerates.bl\\models\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A0BE849-E7D4-4D39-BB93-EFE55213D430}|ExchangeRates.BL\\ExchangeRates.BL.csproj|solutionrelative:exchangerates.bl\\models\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3837C891-13BA-4A96-B92F-79A60EB9A618}|server\\server.csproj|c:\\users\\user1\\algoritech\\server\\server\\controllers\\ratescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3837C891-13BA-4A96-B92F-79A60EB9A618}|server\\server.csproj|solutionrelative:server\\controllers\\ratescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A0BE849-E7D4-4D39-BB93-EFE55213D430}|ExchangeRates.BL\\ExchangeRates.BL.csproj|c:\\users\\user1\\algoritech\\server\\exchangerates.bl\\services\\exchangerateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A0BE849-E7D4-4D39-BB93-EFE55213D430}|ExchangeRates.BL\\ExchangeRates.BL.csproj|solutionrelative:exchangerates.bl\\services\\exchangerateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3837C891-13BA-4A96-B92F-79A60EB9A618}|server\\server.csproj|c:\\users\\user1\\algoritech\\server\\server\\server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{3837C891-13BA-4A96-B92F-79A60EB9A618}|server\\server.csproj|solutionrelative:server\\server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D15AF1E3-C0F9-4AA7-9596-4DA4F6D93011}|ExchangeRates.DAL\\ExchangeRates.DAL.csproj|c:\\users\\user1\\algoritech\\server\\exchangerates.dal\\exchangerates.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{D15AF1E3-C0F9-4AA7-9596-4DA4F6D93011}|ExchangeRates.DAL\\ExchangeRates.DAL.csproj|solutionrelative:exchangerates.dal\\exchangerates.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A0BE849-E7D4-4D39-BB93-EFE55213D430}|ExchangeRates.BL\\ExchangeRates.BL.csproj|c:\\users\\user1\\algoritech\\server\\exchangerates.bl\\exchangerates.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{7A0BE849-E7D4-4D39-BB93-EFE55213D430}|ExchangeRates.BL\\ExchangeRates.BL.csproj|solutionrelative:exchangerates.bl\\exchangerates.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{3837C891-13BA-4A96-B92F-79A60EB9A618}|ExchangeRates.PL\\ExchangeRates.PL.csproj|c:\\users\\user1\\algoritech\\server\\exchangerates.pl\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3837C891-13BA-4A96-B92F-79A60EB9A618}|ExchangeRates.PL\\ExchangeRates.PL.csproj|solutionrelative:exchangerates.pl\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3837C891-13BA-4A96-B92F-79A60EB9A618}|ExchangeRates.PL\\ExchangeRates.PL.csproj|c:\\users\\user1\\algoritech\\server\\exchangerates.pl\\exchangerates.pl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3837C891-13BA-4A96-B92F-79A60EB9A618}|ExchangeRates.PL\\ExchangeRates.PL.csproj|solutionrelative:exchangerates.pl\\exchangerates.pl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user1\\algoritech\\server\\server\\Controllers\\RatesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\Controllers\\RatesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user1\\algoritech\\server\\server\\server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D15AF1E3-C0F9-4AA7-9596-4DA4F6D93011}|ExchangeRates.DAL\\ExchangeRates.DAL.csproj|c:\\users\\user1\\algoritech\\server\\exchangerates.dal\\options\\freecurrencyapioptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -60,6 +28,54 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user1\\AppData\\Roaming\\Microsoft\\UserSecrets\\ed6beb12-c780-40bd-9b0b-7d76cd355306\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user1\\algoritech\\server\\server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user1\\algoritech\\server\\server\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user1\\algoritech\\server\\server\\Controllers\\CurrenciesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:server\\Controllers\\CurrenciesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A0BE849-E7D4-4D39-BB93-EFE55213D430}|ExchangeRates.BL\\ExchangeRates.BL.csproj|c:\\users\\user1\\algoritech\\server\\exchangerates.bl\\models\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A0BE849-E7D4-4D39-BB93-EFE55213D430}|ExchangeRates.BL\\ExchangeRates.BL.csproj|solutionrelative:exchangerates.bl\\models\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D15AF1E3-C0F9-4AA7-9596-4DA4F6D93011}|ExchangeRates.DAL\\ExchangeRates.DAL.csproj|c:\\users\\user1\\algoritech\\server\\exchangerates.dal\\providers\\freecurrencyapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D15AF1E3-C0F9-4AA7-9596-4DA4F6D93011}|ExchangeRates.DAL\\ExchangeRates.DAL.csproj|solutionrelative:exchangerates.dal\\providers\\freecurrencyapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A0BE849-E7D4-4D39-BB93-EFE55213D430}|ExchangeRates.BL\\ExchangeRates.BL.csproj|c:\\users\\user1\\algoritech\\server\\exchangerates.bl\\models\\supportedcurrency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A0BE849-E7D4-4D39-BB93-EFE55213D430}|ExchangeRates.BL\\ExchangeRates.BL.csproj|solutionrelative:exchangerates.bl\\models\\supportedcurrency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A0BE849-E7D4-4D39-BB93-EFE55213D430}|ExchangeRates.BL\\ExchangeRates.BL.csproj|c:\\users\\user1\\algoritech\\server\\exchangerates.bl\\abstractions\\iexchangerateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A0BE849-E7D4-4D39-BB93-EFE55213D430}|ExchangeRates.BL\\ExchangeRates.BL.csproj|solutionrelative:exchangerates.bl\\abstractions\\iexchangerateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A0BE849-E7D4-4D39-BB93-EFE55213D430}|ExchangeRates.BL\\ExchangeRates.BL.csproj|c:\\users\\user1\\algoritech\\server\\exchangerates.bl\\abstractions\\icurrencyprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A0BE849-E7D4-4D39-BB93-EFE55213D430}|ExchangeRates.BL\\ExchangeRates.BL.csproj|solutionrelative:exchangerates.bl\\abstractions\\icurrencyprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A0BE849-E7D4-4D39-BB93-EFE55213D430}|ExchangeRates.BL\\ExchangeRates.BL.csproj|c:\\users\\user1\\algoritech\\server\\exchangerates.bl\\services\\exchangerateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A0BE849-E7D4-4D39-BB93-EFE55213D430}|ExchangeRates.BL\\ExchangeRates.BL.csproj|solutionrelative:exchangerates.bl\\services\\exchangerateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A0BE849-E7D4-4D39-BB93-EFE55213D430}|ExchangeRates.BL\\ExchangeRates.BL.csproj|c:\\users\\user1\\algoritech\\server\\exchangerates.bl\\exchangerates.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7A0BE849-E7D4-4D39-BB93-EFE55213D430}|ExchangeRates.BL\\ExchangeRates.BL.csproj|solutionrelative:exchangerates.bl\\exchangerates.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3837C891-13BA-4A96-B92F-79A60EB9A618}|ExchangeRates.PL\\ExchangeRates.PL.csproj|c:\\users\\user1\\algoritech\\server\\exchangerates.pl\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3837C891-13BA-4A96-B92F-79A60EB9A618}|ExchangeRates.PL\\ExchangeRates.PL.csproj|solutionrelative:exchangerates.pl\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3837C891-13BA-4A96-B92F-79A60EB9A618}|ExchangeRates.PL\\ExchangeRates.PL.csproj|c:\\users\\user1\\algoritech\\server\\exchangerates.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3837C891-13BA-4A96-B92F-79A60EB9A618}|ExchangeRates.PL\\ExchangeRates.PL.csproj|solutionrelative:exchangerates.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -69,80 +85,77 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 10,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\user1\\algoritech\\server\\ExchangeRates.PL\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ExchangeRates.PL\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\user1\\algoritech\\server\\ExchangeRates.PL\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ExchangeRates.PL\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-02T17:35:43.835Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IExchangeRateService.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\algoritech\\server\\ExchangeRates.BL\\Abstractions\\IExchangeRateService.cs",
-              "RelativeDocumentMoniker": "ExchangeRates.BL\\Abstractions\\IExchangeRateService.cs",
-              "ToolTip": "C:\\Users\\user1\\algoritech\\server\\ExchangeRates.BL\\Abstractions\\IExchangeRateService.cs",
-              "RelativeToolTip": "ExchangeRates.BL\\Abstractions\\IExchangeRateService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T18:05:12.361Z",
+              "DocumentIndex": 2,
+              "Title": "ExchangeRates.PL",
+              "DocumentMoniker": "C:\\Users\\user1\\algoritech\\server\\ExchangeRates.PL\\ExchangeRates.PL.csproj",
+              "RelativeDocumentMoniker": "ExchangeRates.PL\\ExchangeRates.PL.csproj",
+              "ToolTip": "C:\\Users\\user1\\algoritech\\server\\ExchangeRates.PL\\ExchangeRates.PL.csproj",
+              "RelativeToolTip": "ExchangeRates.PL\\ExchangeRates.PL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-02T17:35:23.632Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SupportedCurrency.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\algoritech\\server\\ExchangeRates.BL\\Models\\SupportedCurrency.cs",
-              "RelativeDocumentMoniker": "ExchangeRates.BL\\Models\\SupportedCurrency.cs",
-              "ToolTip": "C:\\Users\\user1\\algoritech\\server\\ExchangeRates.BL\\Models\\SupportedCurrency.cs",
-              "RelativeToolTip": "ExchangeRates.BL\\Models\\SupportedCurrency.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T17:51:19.27Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Models.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\algoritech\\server\\ExchangeRates.BL\\Models\\Models.cs",
-              "RelativeDocumentMoniker": "ExchangeRates.BL\\Models\\Models.cs",
-              "ToolTip": "C:\\Users\\user1\\algoritech\\server\\ExchangeRates.BL\\Models\\Models.cs",
-              "RelativeToolTip": "ExchangeRates.BL\\Models\\Models.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T13:06:58.252Z",
-              "EditorCaption": ""
+              "DocumentIndex": 17,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\user1\\algoritech\\server\\ExchangeRates.PL\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ExchangeRates.PL\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\user1\\algoritech\\server\\ExchangeRates.PL\\appsettings.Development.json",
+              "RelativeToolTip": "ExchangeRates.PL\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-02T17:21:23.102Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "RatesController.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\algoritech\\server\\server\\Controllers\\RatesController.cs",
-              "RelativeDocumentMoniker": "server\\Controllers\\RatesController.cs",
-              "ToolTip": "C:\\Users\\user1\\algoritech\\server\\server\\Controllers\\RatesController.cs",
-              "RelativeToolTip": "server\\Controllers\\RatesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T17:38:39.112Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 11,
               "Title": "FreeCurrencyApiClient.cs",
               "DocumentMoniker": "C:\\Users\\user1\\algoritech\\server\\ExchangeRates.DAL\\Providers\\FreeCurrencyApiClient.cs",
               "RelativeDocumentMoniker": "ExchangeRates.DAL\\Providers\\FreeCurrencyApiClient.cs",
               "ToolTip": "C:\\Users\\user1\\algoritech\\server\\ExchangeRates.DAL\\Providers\\FreeCurrencyApiClient.cs",
               "RelativeToolTip": "ExchangeRates.DAL\\Providers\\FreeCurrencyApiClient.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T12:54:52.844Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-31T12:54:52.844Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\user1\\algoritech\\server\\server\\appsettings.json",
               "RelativeDocumentMoniker": "server\\appsettings.json",
@@ -150,25 +163,95 @@
               "RelativeToolTip": "server\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-31T17:27:22.233Z",
+              "WhenOpened": "2025-08-31T17:27:22.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SupportedCurrency.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\algoritech\\server\\ExchangeRates.BL\\Models\\SupportedCurrency.cs",
+              "RelativeDocumentMoniker": "ExchangeRates.BL\\Models\\SupportedCurrency.cs",
+              "ToolTip": "C:\\Users\\user1\\algoritech\\server\\ExchangeRates.BL\\Models\\SupportedCurrency.cs",
+              "RelativeToolTip": "ExchangeRates.BL\\Models\\SupportedCurrency.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T17:51:19.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExchangeRates.DAL.csproj",
+              "DocumentMoniker": "C:\\Users\\user1\\algoritech\\server\\ExchangeRates.DAL\\ExchangeRates.DAL.csproj",
+              "RelativeDocumentMoniker": "ExchangeRates.DAL\\ExchangeRates.DAL.csproj",
+              "ToolTip": "C:\\Users\\user1\\algoritech\\server\\ExchangeRates.DAL\\ExchangeRates.DAL.csproj",
+              "RelativeToolTip": "ExchangeRates.DAL\\ExchangeRates.DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-31T12:50:58.529Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "RatesController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\algoritech\\server\\server\\Controllers\\RatesController.cs",
+              "RelativeDocumentMoniker": "server\\Controllers\\RatesController.cs",
+              "ToolTip": "C:\\Users\\user1\\algoritech\\server\\server\\Controllers\\RatesController.cs",
+              "RelativeToolTip": "server\\Controllers\\RatesController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T17:38:39.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Models.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\algoritech\\server\\ExchangeRates.BL\\Models\\Models.cs",
+              "RelativeDocumentMoniker": "ExchangeRates.BL\\Models\\Models.cs",
+              "ToolTip": "C:\\Users\\user1\\algoritech\\server\\ExchangeRates.BL\\Models\\Models.cs",
+              "RelativeToolTip": "ExchangeRates.BL\\Models\\Models.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T13:06:58.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user1\\algoritech\\server\\ExchangeRates.PL\\appsettings.json",
+              "RelativeDocumentMoniker": "ExchangeRates.PL\\appsettings.json",
+              "ToolTip": "C:\\Users\\user1\\algoritech\\server\\ExchangeRates.PL\\appsettings.json",
+              "RelativeToolTip": "ExchangeRates.PL\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-02T17:21:17.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user1\\algoritech\\server\\server\\Program.cs",
               "RelativeDocumentMoniker": "server\\Program.cs",
-              "ToolTip": "C:\\Users\\user1\\algoritech\\server\\server\\Program.cs*",
-              "RelativeToolTip": "server\\Program.cs*",
+              "ToolTip": "C:\\Users\\user1\\algoritech\\server\\server\\Program.cs",
+              "RelativeToolTip": "server\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T13:29:12.413Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-31T13:29:12.413Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 13,
+              "Title": "IExchangeRateService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\algoritech\\server\\ExchangeRates.BL\\Abstractions\\IExchangeRateService.cs",
+              "RelativeDocumentMoniker": "ExchangeRates.BL\\Abstractions\\IExchangeRateService.cs",
+              "ToolTip": "C:\\Users\\user1\\algoritech\\server\\ExchangeRates.BL\\Abstractions\\IExchangeRateService.cs",
+              "RelativeToolTip": "ExchangeRates.BL\\Abstractions\\IExchangeRateService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T18:05:12.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "ICurrencyProvider.cs",
               "DocumentMoniker": "C:\\Users\\user1\\algoritech\\server\\ExchangeRates.BL\\Abstractions\\ICurrencyProvider.cs",
               "RelativeDocumentMoniker": "ExchangeRates.BL\\Abstractions\\ICurrencyProvider.cs",
@@ -176,12 +259,11 @@
               "RelativeToolTip": "ExchangeRates.BL\\Abstractions\\ICurrencyProvider.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T18:12:03.393Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-31T18:12:03.393Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "CurrenciesController.cs",
               "DocumentMoniker": "C:\\Users\\user1\\algoritech\\server\\server\\Controllers\\CurrenciesController.cs",
               "RelativeDocumentMoniker": "server\\Controllers\\CurrenciesController.cs",
@@ -189,20 +271,11 @@
               "RelativeToolTip": "server\\Controllers\\CurrenciesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T17:37:21.778Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "WhenOpened": "2025-08-31T17:37:21.778Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "ExchangeRateService.cs",
               "DocumentMoniker": "C:\\Users\\user1\\algoritech\\server\\ExchangeRates.BL\\Services\\ExchangeRateService.cs",
               "RelativeDocumentMoniker": "ExchangeRates.BL\\Services\\ExchangeRateService.cs",
@@ -214,7 +287,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "ExchangeRates.BL.csproj",
               "DocumentMoniker": "C:\\Users\\user1\\algoritech\\server\\ExchangeRates.BL\\ExchangeRates.BL.csproj",
               "RelativeDocumentMoniker": "ExchangeRates.BL\\ExchangeRates.BL.csproj",
@@ -222,47 +295,36 @@
               "RelativeToolTip": "ExchangeRates.BL\\ExchangeRates.BL.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-31T13:05:02.512Z"
+              "WhenOpened": "2025-08-31T13:05:02.512Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 4,
               "Title": "server.csproj",
               "DocumentMoniker": "C:\\Users\\user1\\algoritech\\server\\server\\server.csproj",
               "RelativeDocumentMoniker": "server\\server.csproj",
               "ToolTip": "C:\\Users\\user1\\algoritech\\server\\server\\server.csproj",
               "RelativeToolTip": "server\\server.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-08-31T12:08:29.048Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ExchangeRates.DAL.csproj",
-              "DocumentMoniker": "C:\\Users\\user1\\algoritech\\server\\ExchangeRates.DAL\\ExchangeRates.DAL.csproj",
-              "RelativeDocumentMoniker": "ExchangeRates.DAL\\ExchangeRates.DAL.csproj",
-              "ToolTip": "C:\\Users\\user1\\algoritech\\server\\ExchangeRates.DAL\\ExchangeRates.DAL.csproj",
-              "RelativeToolTip": "ExchangeRates.DAL\\ExchangeRates.DAL.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-31T12:50:58.529Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 5,
               "Title": "FreeCurrencyApiOptions.cs",
               "DocumentMoniker": "C:\\Users\\user1\\algoritech\\server\\ExchangeRates.DAL\\Options\\FreeCurrencyApiOptions.cs",
               "RelativeDocumentMoniker": "ExchangeRates.DAL\\Options\\FreeCurrencyApiOptions.cs",
               "ToolTip": "C:\\Users\\user1\\algoritech\\server\\ExchangeRates.DAL\\Options\\FreeCurrencyApiOptions.cs",
               "RelativeToolTip": "ExchangeRates.DAL\\Options\\FreeCurrencyApiOptions.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T12:51:38.975Z"
+              "WhenOpened": "2025-08-31T12:51:38.975Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 6,
               "Title": "secrets.json",
               "DocumentMoniker": "C:\\Users\\user1\\AppData\\Roaming\\Microsoft\\UserSecrets\\ed6beb12-c780-40bd-9b0b-7d76cd355306\\secrets.json",
               "RelativeDocumentMoniker": "..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\ed6beb12-c780-40bd-9b0b-7d76cd355306\\secrets.json",

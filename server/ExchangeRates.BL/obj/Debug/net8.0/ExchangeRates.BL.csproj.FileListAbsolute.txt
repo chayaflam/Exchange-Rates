@@ -9,3 +9,4 @@ C:\Users\user1\algoritech\server\ExchangeRates.BL\obj\Debug\net8.0\ExchangeRates
 C:\Users\user1\algoritech\server\ExchangeRates.BL\obj\Debug\net8.0\refint\ExchangeRates.BL.dll
 C:\Users\user1\algoritech\server\ExchangeRates.BL\obj\Debug\net8.0\ExchangeRates.BL.pdb
 C:\Users\user1\algoritech\server\ExchangeRates.BL\obj\Debug\net8.0\ref\ExchangeRates.BL.dll
+C:\Users\user1\algoritech\server\ExchangeRates.BL\obj\Debug\net8.0\ExchangeRates.BL.sourcelink.json

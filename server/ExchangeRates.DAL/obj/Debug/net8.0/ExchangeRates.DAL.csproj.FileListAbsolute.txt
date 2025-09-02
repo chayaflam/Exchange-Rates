@@ -13,3 +13,4 @@ C:\Users\user1\algoritech\server\ExchangeRates.DAL\obj\Debug\net8.0\ExchangeRate
 C:\Users\user1\algoritech\server\ExchangeRates.DAL\obj\Debug\net8.0\refint\ExchangeRates.DAL.dll
 C:\Users\user1\algoritech\server\ExchangeRates.DAL\obj\Debug\net8.0\ExchangeRates.DAL.pdb
 C:\Users\user1\algoritech\server\ExchangeRates.DAL\obj\Debug\net8.0\ref\ExchangeRates.DAL.dll
+C:\Users\user1\algoritech\server\ExchangeRates.DAL\obj\Debug\net8.0\ExchangeRates.DAL.sourcelink.json

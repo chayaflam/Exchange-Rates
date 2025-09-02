@@ -3,7 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36121.58
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "server", "server\server.csproj", "{3837C891-13BA-4A96-B92F-79A60EB9A618}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExchangeRates.PL", "ExchangeRates.PL\ExchangeRates.PL.csproj", "{3837C891-13BA-4A96-B92F-79A60EB9A618}"
+
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExchangeRates.DAL", "ExchangeRates.DAL\ExchangeRates.DAL.csproj", "{D15AF1E3-C0F9-4AA7-9596-4DA4F6D93011}"
 EndProject

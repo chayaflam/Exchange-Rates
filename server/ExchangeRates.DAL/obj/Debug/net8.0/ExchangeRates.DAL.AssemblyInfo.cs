@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExchangeRates.DAL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+090a2d8b37219df16e97bbeb5326521022365bf7")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExchangeRates.DAL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExchangeRates.DAL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
